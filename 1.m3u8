@@ -21,9 +21,9 @@
 
 {
 
-"spider":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/huangziyu100224/tvbox/main/spider0.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/tvbox/main/spider0.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5hcGkuOTk5ODg4NjYueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odWFuZ3ppeXUxMDAyMjQvdHZib3gvbWFpbi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHVhbmd6aXl1MTAwMjI0L3R2Ym94L21haW4vbGl2ZS50eHQ="]}]}],
 "wallpaper":"http://101.34.67.237/pics",
 
   
